@@ -9,7 +9,7 @@ const Home = () => {
               <div className="flex flex-col w-1/2 ">
                 <h1 className="text-gray-800 font-inter text-6xl font-bold ml-10 mt-10">The super fast<br/>news providing<br/>website </h1>
                 <div className="mx-16 mt-12">
-                    <a href="/business" className="px-12 py-3 rounded-3xl transition ease-in-out hover:scale-110  delay-150 bg-blue-700  text-white hover:-translate-y-1  hover:text-blue-700  hover:bg-white  duration-300 cursor-pointer left-28 mb-3" target="_blank" rel="noreferrer">
+                    <a href="/business" className="px-12 py-3 rounded-3xl transition ease-in-out hover:scale-110  delay-150 bg-blue-700  text-white hover:-translate-y-1  hover:text-blue-700  hover:bg-white  duration-300 cursor-pointer left-28 mb-3">
                         Read News
                     </a>
                 </div>
