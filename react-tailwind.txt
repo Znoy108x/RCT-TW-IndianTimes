@@ -1,0 +1,2 @@
+npx create-react-app my-project
+npm install -D tailwindcss postcss autoprefixer
